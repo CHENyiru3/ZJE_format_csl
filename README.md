@@ -1,4 +1,4 @@
-# ARE YOU HAVE SOME PROBLEM WITH THE SHIT ZJE FORMT?
+# ARE YOU HAVE SOME PROBLEMS WITH THE SHIT ZJE FORMT?
 Here is the converted format just for ZJE. When I am going to upload my BG essay, I found it is so annoying to use the "Cite them right 12 th" even though this format is sightly(lol) close to so-called ZJE format.
 
 # So I edit the csl file!
